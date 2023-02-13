@@ -1,1 +1,3 @@
-echo: gives output of the argument
+Shell redirection commands and uses
+
+Echo	Prints given input
