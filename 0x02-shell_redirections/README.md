@@ -6,3 +6,4 @@ cat	Lists contents of Dir
 tail	Lists the last 10 lines of a file
 head	Lists the first 10 lines of a file
 head -n () List a particular line of a file
+echo -e to avoid backslash
