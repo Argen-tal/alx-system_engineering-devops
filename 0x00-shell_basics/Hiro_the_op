@@ -1,0 +1,6 @@
+i used 'i' to enter insert mode
+we're currently inside the file i just created
+Heres where we put the codes.
+To exit it, we simply click ESC
+Followed by :wq 
+Automatically saving this contents(lines)
